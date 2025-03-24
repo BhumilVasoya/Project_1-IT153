@@ -4,27 +4,27 @@ import { FileText, Youtube } from "lucide-react";
 const dietCategories = [
   {
     name: "HEALTH FITNESS",
-    pdfUrl: "https://fctemis.org/notes/4483_Physical%20fitness%20(1).pdf",
+    pdfUrl: "pdfs/4483_Physical fitness (1).pdf",
     youtubeUrl: "https://youtu.be/UIPvIYsjfpo?si=OA-eseZHQnddyzzj",
   },
   {
     name: "NUTRITIONAL FITNESS",
-    pdfUrl: "https://www.sparkinstitute.in/admin/assets/pdf/food_nutrition_health_and_fitness.pdf",
+    pdfUrl: "pdfs/food_nutrition_health_and_fitness.pdf",
     youtubeUrl: "https://youtu.be/aADukThvjXQ?si=_bWQPpQaw8soPhom",
   },
   {
     name: "MENTAL AND EMOTIONAL FITNESS",
-    pdfUrl: "https://abundancecompany.com/wp-content/uploads/2021/03/Mental-Emotional-Fitness-PDF.pdf",
+    pdfUrl: "pdfs/Mental-Emotional-Fitness-PDF.pdf",
     youtubeUrl: "https://youtu.be/ssksP3FbRUc?si=mQqOgFPffjeZEIGU",
   },
   {
     name: "SPORTS AND PERFORMANCE FITNESS",
-    pdfUrl: "https://www.circuitoultras.org/wp-content/uploads/2021/05/High-performance-training-for-sports-by-David-Joyce-Daniel-Lewindon.pdf",
+    pdfUrl: "pdfs/High-performance-training-for-sports-by-David-Joyce-Daniel-Lewindon.pdf",
     youtubeUrl: "https://youtu.be/TdlvwQJzLLY?si=mP7d8m2AjujyOM7Z",
   },
   {
     name: "HOLISTIC AND WELLNESS FITNESS",
-    pdfUrl: "https://indianyoga.org/wp-content/uploads/2021/04/v10-issue2-article12.pdf",
+    pdfUrl: "pdfs/v10-issue2-article12.pdf",
     youtubeUrl: "https://youtu.be/4TtN0AN7Hc0?si=JGvDTWN5dtpWrp8X",
   },
 ];

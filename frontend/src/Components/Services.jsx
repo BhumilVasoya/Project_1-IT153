@@ -8,7 +8,7 @@ const Services = () => {
     { img: "images/image3.jpg", title: "Workout Programs", path: "/workout" },
     { img: "images/image6.jpg", title: "Diet Plan", path: "/diet" },
     { img: "images/image4.jpg", title: "Health Fitness", path: "/fitness" },
-    { img: "images/image1.jpg", title: "Advanced Training", path: "/training" },
+    { img: "images/749796.jpg", title: "Medical Condition Programs", path: "/training" },
   ];
 
   return (

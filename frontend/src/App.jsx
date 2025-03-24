@@ -11,7 +11,7 @@ import SignUp from './Components/SignUp';
 import Workout from './Components/Workout';
 import Diet from './Components/Diet';
 import Fitness from './Components/Fitness';
-import Training from './Components/Training';
+import Training from './Components/Medical';
 import Bmi from './Components/Bmi';
 
 function App() {

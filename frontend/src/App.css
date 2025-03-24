@@ -488,6 +488,11 @@ nav {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
   }
+
+  .programs-grid h2{
+    text-align: left;
+    margin-left: -2px;
+  }
   
   .program-card {
     border: 1px solid #049882;
@@ -508,6 +513,7 @@ nav {
     margin-top: 10px;
     margin-bottom: 10px;
     text-align: left;
+    
     
   }
   
